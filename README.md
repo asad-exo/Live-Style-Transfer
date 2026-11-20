@@ -74,7 +74,7 @@ Then open <http://localhost:8000> and allow camera access. The status line chang
 
 ## Team
 
-**Asad Shahab** · Shams Ghani · Khuzaima Abbasi
+**Asad Shahab** · Shams Ghani · Khuzaima Abbas
 
 ## References
 
